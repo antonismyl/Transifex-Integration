@@ -167,13 +167,13 @@
         <location filename="../src/qml/notifications/NotificationItem.qml" line="103"/>
         <source>%n year(s) ago</source>
         <comment>notifications</comment>
-        <translation><numerusform>plural one</numerusform><numerusform>plural many</numerusform><numerusform>plural other</numerusform></translation>
+        <translation><numerusform>%n plural one</numerusform><numerusform>%n plural many</numerusform><numerusform>%n plural other</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../src/qml/notifications/NotificationItem.qml" line="105"/>
         <source>%n months(s) ago</source>
         <comment>notifications</comment>
-        <translation><numerusform>plural one</numerusform><numerusform>plural many</numerusform><numerusform>plural other</numerusform></translation>
+        <translation><numerusform>%n plural one</numerusform><numerusform>%n plural many</numerusform><numerusform>%n plural other</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../src/qml/notifications/NotificationItem.qml" line="107"/>
