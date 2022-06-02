@@ -179,7 +179,7 @@
         <location filename="../src/qml/notifications/NotificationItem.qml" line="107"/>
         <source>%n day(s) ago</source>
         <comment>notifications</comment>
-        <translation type="unfinished"><numerusform>%n plural 1</numerusform><numerusform>%n plural many</numerusform></translation>
+        <translation type="unfinished"><numerusform>%n plural 1</numerusform><numerusform>%n plural many</numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../src/qml/notifications/NotificationItem.qml" line="109"/>
@@ -188,6 +188,7 @@
         <translation type="unfinished">
             <numerusform>%n plural 1</numerusform>
             <numerusform>%n plural many</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
