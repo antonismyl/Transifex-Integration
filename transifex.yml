@@ -6,4 +6,4 @@ git:
     source_language: en
     translation_files_expression: 'Translations/<lang>/'
     ignore:
-      - SourceFiles/ignore.txt
+      - 'SourceFiles/ignore.txt'
