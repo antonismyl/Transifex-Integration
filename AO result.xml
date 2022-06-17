@@ -1,0 +1,17 @@
+<dict>
+<key>media.photo.browser.indexOfTotalFiles</key> <dict>
+<key>NSStringLocalizedFormatKey</key>
+<string>%#@total@</string>
+<key>total</key>
+<dict>
+<key>NSStringFormatSpecTypeKey</key>
+<string>NSStringPluralRuleType</string>
+<key>NSStringFormatValueTypeKey</key>
+<string>d</string>
+<key>one</key>
+<string>%1$s of %d file</string>
+<key>other</key>
+<string>%1$s of %d files</string>
+</dict>
+</dict>
+</dict>
