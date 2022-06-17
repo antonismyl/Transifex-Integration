@@ -5,5 +5,5 @@ git:
     source_file: SourceFiles/_.txt
     source_language: en
     translation_files_expression: 'Translations/<lang>/'
-    ignore:
-      - 'SourceFiles/ignore.txt'
+    ignore_files:
+      - SourceFiles/ignore.txt
