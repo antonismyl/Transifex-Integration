@@ -1,8 +1,8 @@
 git:
   filters:
   - filter_type: file
-    file_format: QT
-    source_file: SourceFiles/pluraltest.ts
+    file_format: txt
+    source_file: SourceFiles/_.txt
     source_language: en
     translation_files_expression: 'Translations/<lang>/'
     ignore:
