@@ -1,6 +1,6 @@
 git:
   filters:
-  - filter_type: file
+  - filter_type: dir
     file_format: txt
     source_file: SourceFiles/_.txt
     source_language: en
