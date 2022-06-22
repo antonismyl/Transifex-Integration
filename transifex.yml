@@ -2,15 +2,6 @@ git:
   filters:
   - filter_type: file
     file_format: PO
-    source_file_extension: po
-    source_file: SourceFiles/example.po
+    source_file: locale/example.po
     source_language: en
-    translation_files_expression: Translations/<lang>/
-
-  filters:
-  - filter_type: dir
-    file_format: KEYVALUEJSON
-    source_file_extension: json
-    source_file_dir: SourceFiles/
-    source_language: en
-    translation_files_expression: Translations/<lang>/
+    translation_files_expression: 'Translations/<lang>/'
