@@ -7,7 +7,7 @@ git:
     source_language: en
     translation_files_expression: 'Translations/<lang>/'
 
-    git:
+git:
   filters:
   - filter_type: dir
     file_format: KEYVALUEJSON
