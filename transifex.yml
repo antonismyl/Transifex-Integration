@@ -5,7 +5,7 @@ git:
     source_file_extension: po
     source_file: SourceFiles/example.po
     source_language: en
-    translation_files_expression: 'Translations/<lang>/'
+    translation_files_expression: Translations/<lang>/
 
   filters:
   - filter_type: dir
@@ -13,4 +13,4 @@ git:
     source_file_extension: json
     source_file_dir: SourceFiles/
     source_language: en
-    translation_files_expression: 'Translations/<lang>/'
+    translation_files_expression: Translations/<lang>/
