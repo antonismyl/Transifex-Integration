@@ -5,6 +5,7 @@ git:
     source_file: locale/example.po
     source_language: en
     translation_files_expression: 'Translations/<lang>/'
+    
 filters:
   - filter_type: dir
     file_format: KEYVALUEJSON
