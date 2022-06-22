@@ -1,9 +1,15 @@
 git:
   filters:
-  - filter_type: dir
-    file_format: TXT
-    source_file: SourceFiles/
+  - filter_type: file
+    file_format: PO
+    source_file: SourceFiles/example.po
     source_language: en
     translation_files_expression: 'Translations/<lang>/'
-    ignore_files:
-      - SourceFiles/ignore.txt
+
+    git:
+  filters:
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: SourceFiles/example_key_value.json
+    source_language: en
+    translation_files_expression: 'Translations/<lang>/'
