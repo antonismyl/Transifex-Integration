@@ -2,9 +2,8 @@ git:
   filters:
   - filter_type: file
     file_format: PO
-    source_file_extension: po
     source_language: en
-    source_file: locale/example.po
+    source_file: SourceFiles/example.po
     translation_files_expression: 'Translations/<lang>/'
     
   - filter_type: dir
