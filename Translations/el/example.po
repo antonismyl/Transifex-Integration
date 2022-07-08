@@ -64,6 +64,3 @@ msgstr "βοήθεια"
 
 msgid "tmx"
 msgstr "Επιπλέον δωρεάν σκληρός δίσκος 2 TB, αξίας xx €!"
-
-msgid "test"
-msgstr ""
