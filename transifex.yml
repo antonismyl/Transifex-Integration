@@ -1,14 +1,7 @@
 git:
   filters:
   - filter_type: file
-    file_format: PO
+    file_format: ANDROID
     source_language: en
-    source_file: SourceFiles/example.po
+    source_file: SourceFiles/onboarding-exe_example_androidxml_en.xml
     translation_files_expression: 'Translations/<lang>/'
-    
-  - filter_type: dir
-    file_format: KEYVALUEJSON
-    source_file_extension: json
-    source_language: en
-    source_file_dir: SourceFiles/
-    translation_files_expression: 'Translations/<lang>'
