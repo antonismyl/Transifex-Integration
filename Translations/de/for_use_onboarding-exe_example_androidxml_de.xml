@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+<!-- Type of entry: string -->
+<string name="localization_manager">Lokalisierungsmanager</string>
+<!-- Type of entry: string-array -->
+<string-array name="account_details_array">
+  <item>Nutzername</item>
+  <item>E-Mail-Addresse</item>
+</string-array>
+<!-- Type of entry: plurals-->
+<plurals name="minutes_count">
+<item quantity="one">%s Minute</item>
+<item quantity="other">%s Minuten</item>
+</plurals>
+</resources>

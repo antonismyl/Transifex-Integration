@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+<!-- Type of entry: string -->
+<string name="localization_manager">Διαχειριστής τοπικής προσαρμογής</string>
+<!-- Type of entry: string-array -->
+<string-array name="account_details_array">
+  <item>όνομα χρήστη</item>
+  <item>Διεύθυνση ηλεκτρονικού ταχυδρομείου</item>
+</string-array>
+<!-- Type of entry: plurals-->
+<plurals name="minutes_count">
+<item quantity="one">%s λεπτό</item>
+<item quantity="other">%s λεπτά</item>
+</plurals>
+</resources>
