@@ -1,14 +1,7 @@
 git:
   filters:
   - filter_type: file
-    file_format: XML
-    source_language: en
-    source_file: SourceFiles/onboarding-exe_example_androidxml_en.xml
-    translation_files_expression: 'Translations/<lang>/'
-
- filters:
-  - filter_type: file
-    file_format: XML
-    source_language: en
-    source_file: amplify/backend/function/*/src/locales/en.json
-    translation_files_expression: 'Translations/<lang>/'
+    file_format: YML
+    source_language: fr
+    source_file: memoquest/translations/messages.fr.yml
+    traslation_files_expression: 'memoquest/translations/messages.<lang>.yml'
