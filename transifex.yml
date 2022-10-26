@@ -2,6 +2,6 @@ git:
   filters:
   - filter_type: file
     file_format: YML
-    source_language: fr
     source_file: memoquest/translations/messages.fr.yml
-    traslation_files_expression: 'memoquest/translations/messages.<lang>.yml'
+    source_language: fr    
+    translation_files_expression: 'memoquest/translations/messages.<lang>.yml'
