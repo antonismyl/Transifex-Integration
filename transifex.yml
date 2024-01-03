@@ -13,7 +13,6 @@ git:
     source_language: de
     source_files_expression: lang/de/pages/<file>.php
     translation_files_expression: lang/<lang>/pages/<file>.php
-    
-settings:
+  settings:
   language_mapping:
     cs: cz
