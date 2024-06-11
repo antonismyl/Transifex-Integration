@@ -3,5 +3,5 @@ git:
   - filter_type: dynamic
     file_format: ANDROID
     source_language: en
-    source_file: /<dir>/<file>.xml
+    source_files_expression: /<dir>/<file>.xml
     translation_files_expression: 'Translations/<lang>/strings.xml'
