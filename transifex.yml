@@ -4,4 +4,4 @@ git:
     file_format: ANDROID
     source_language: en
     source_files_expression: /<dir>/<file>.xml
-    translation_files_expression: '<file>.xml'
+    translation_files_expression: '<lang>_<file>.xml'
