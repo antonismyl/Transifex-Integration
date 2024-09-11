@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="conflict">This is a source update</string>
+    <string name="conflict">This is a source update on the parent</string>
 </resources>
