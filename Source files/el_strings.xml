@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="conflict">This is the Child translation from the feature branch</string>
+    <string name="conflict">This is a translation coming from the child resource</string>
 </resources>
