@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="rebase1">rebase1</string>
-    <string name="rebase2">rebase2</string>
-    <string name="rebase3">rebase3</string>
-    <string name="childConflict">childConflict</string>
-    <string name="new">new string coming from child</string>
+    <string name="conflict">Parent Source main</string>
 </resources>
