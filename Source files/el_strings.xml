@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="string1">translation1</string>
-    <string name="string2">translation2</string>
+    <string name="string1">translation1new</string>
+    <string name="string2">translation2new</string>
 </resources>
