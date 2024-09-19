@@ -6,7 +6,6 @@ git:
     source_files_expression: /<dir>/<file>_en.xml
     translation_files_expression: '<dir>/<lang>_<file>.xml'
 
-  filters:
   - filter_type: dynamic
     file_format: KEYVALUEJSON
     source_language: en
